@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:waliya/api/location_api.dart';
-import 'package:waliya/countries.dart';
+
 import 'package:waliya/provider/country_provider.dart';
 import 'package:waliya/screen/confirm_screen.dart';
 import 'package:waliya/widgets/fields.dart';
