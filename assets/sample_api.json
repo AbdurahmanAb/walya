@@ -1,0 +1,1156 @@
+{
+  "response": [
+    {
+      "id": "18844",
+      "zone": "Harar",
+      "city": "A10",
+      "title": "Maarif schools Harar",
+      "lat": "9.3298144",
+      "lng": "42.0867289",
+      "street": ""
+    },
+    {
+      "id": "24984",
+      "zone": "Misrak Hararge",
+      "city": "A10",
+      "title": "Masjid Towhid",
+      "lat": "9.3644913",
+      "lng": "42.0399537",
+      "street": ""
+    },
+    {
+      "id": "25006",
+      "zone": "Misrak Hararge",
+      "city": "A10",
+      "title": "Family Mobile & Electronics Shopping Mall",
+      "lat": "9.36088",
+      "lng": "42.042882",
+      "street": ""
+    },
+    {
+      "id": "25037",
+      "zone": "Misrak Hararge",
+      "city": "A10",
+      "title": "Gullalle Post",
+      "lat": "9.3634004",
+      "lng": "42.0374056",
+      "street": ""
+    },
+    {
+      "id": "25075",
+      "zone": "Misrak Hararge",
+      "city": "A10",
+      "title": "Kadir Aliyi",
+      "lat": "9.3684353",
+      "lng": "42.0328551",
+      "street": ""
+    },
+    {
+      "id": "25121",
+      "zone": "Misrak Hararge",
+      "city": "A10",
+      "title": "Husseen Aadam",
+      "lat": "9.3658892",
+      "lng": "42.0297774",
+      "street": "928H+9W2"
+    },
+    {
+      "id": "38579",
+      "zone": "Fafan",
+      "city": "A10",
+      "title": "Hebaan tarara apartment houses. Coming soon",
+      "lat": "9.3416488",
+      "lng": "42.8425008",
+      "street": ""
+    },
+    {
+      "id": "25160",
+      "zone": "Mirab Shewa",
+      "city": "A4፣አምቦ",
+      "title": "NUYIF CAFE",
+      "lat": "8.9822202",
+      "lng": "37.867498",
+      "street": ""
+    },
+    {
+      "id": "16914",
+      "zone": "Misrak Gojjam",
+      "city": "Aba Libanose",
+      "title": "Aba Libanose",
+      "lat": "10.26224422",
+      "lng": "37.65369034",
+      "street": ""
+    },
+    {
+      "id": "7516",
+      "zone": "",
+      "city": "Ababa",
+      "title": "Doqa Cafe",
+      "lat": "9.0148594",
+      "lng": "38.7568424",
+      "street": "Addis, Ras Desta Damtew St"
+    },
+    {
+      "id": "19141",
+      "zone": "Hareri",
+      "city": "Abadir",
+      "title": "3",
+      "lat": "9.309033394",
+      "lng": "42.13754654",
+      "street": ""
+    },
+    {
+      "id": "19142",
+      "zone": "Hareri",
+      "city": "Abadir",
+      "title": "4",
+      "lat": "9.305245399",
+      "lng": "42.13917542",
+      "street": ""
+    },
+    {
+      "id": "19143",
+      "zone": "Hareri",
+      "city": "Abadir",
+      "title": "5",
+      "lat": "9.302824974",
+      "lng": "42.13759232",
+      "street": ""
+    },
+    {
+      "id": "19144",
+      "zone": "Hareri",
+      "city": "Abadir",
+      "title": "6",
+      "lat": "9.31034565",
+      "lng": "42.13400269",
+      "street": ""
+    },
+    {
+      "id": "5689",
+      "zone": "Lemi Kura",
+      "city": "abado",
+      "title": "Eyasu Kebede",
+      "lat": "9.0665636",
+      "lng": "38.8702727",
+      "street": ""
+    },
+    {
+      "id": "30043",
+      "zone": "Arsi",
+      "city": "Abajema",
+      "title": "Aba Jema",
+      "lat": "8.374157906",
+      "lng": "39.90599823",
+      "street": ""
+    },
+    {
+      "id": "9176",
+      "zone": "",
+      "city": "Abala",
+      "title": "Abala Hospital",
+      "lat": "13.3690791",
+      "lng": "39.7578524",
+      "street": ""
+    },
+    {
+      "id": "37662",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Arbaraat",
+      "lat": "6.373882771",
+      "lng": "42.47543335",
+      "street": ""
+    },
+    {
+      "id": "37663",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Durwale",
+      "lat": "6.328807354",
+      "lng": "42.61122513",
+      "street": ""
+    },
+    {
+      "id": "37664",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Elder",
+      "lat": "6.379553795",
+      "lng": "42.65847015",
+      "street": ""
+    },
+    {
+      "id": "37665",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Hagarad",
+      "lat": "6.348430634",
+      "lng": "42.52584457",
+      "street": ""
+    },
+    {
+      "id": "37666",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Laborie",
+      "lat": "6.255431652",
+      "lng": "42.77455902",
+      "street": ""
+    },
+    {
+      "id": "37667",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Megalaad",
+      "lat": "6.318835735",
+      "lng": "42.74106216",
+      "street": ""
+    },
+    {
+      "id": "37668",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "Siqaley",
+      "lat": "6.346570492",
+      "lng": "42.57236862",
+      "street": ""
+    },
+    {
+      "id": "38100",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "01 Kebele",
+      "lat": "6.313230515",
+      "lng": "42.64102554",
+      "street": ""
+    },
+    {
+      "id": "38101",
+      "zone": "Shebele",
+      "city": "Abaqero",
+      "title": "02 Kebele",
+      "lat": "6.311696529",
+      "lng": "42.67623901",
+      "street": ""
+    },
+    {
+      "id": "39081",
+      "zone": "Shebele",
+      "city": "Abaqoro",
+      "title": "01 Kebele",
+      "lat": "6.313230515",
+      "lng": "42.64102554",
+      "street": ""
+    },
+    {
+      "id": "39082",
+      "zone": "Shebele",
+      "city": "Abaqoro",
+      "title": "02 Kebele",
+      "lat": "6.311696529",
+      "lng": "42.67623901",
+      "street": ""
+    },
+    {
+      "id": "33331",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Abuko",
+      "lat": "8.34454155",
+      "lng": "37.67328262",
+      "street": ""
+    },
+    {
+      "id": "33332",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Ambalta",
+      "lat": "8.298431396",
+      "lng": "37.86268616",
+      "street": ""
+    },
+    {
+      "id": "33333",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Bido Tadale",
+      "lat": "8.296987534",
+      "lng": "37.63064575",
+      "street": ""
+    },
+    {
+      "id": "33334",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Bokatana Serite",
+      "lat": "8.253236771",
+      "lng": "37.63737488",
+      "street": ""
+    },
+    {
+      "id": "33335",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Borar",
+      "lat": "8.306249619",
+      "lng": "37.55120087",
+      "street": ""
+    },
+    {
+      "id": "33336",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Chisana Koribesa",
+      "lat": "8.325410843",
+      "lng": "37.656147",
+      "street": ""
+    },
+    {
+      "id": "33337",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Darigegatar",
+      "lat": "8.411352158",
+      "lng": "37.52410126",
+      "street": ""
+    },
+    {
+      "id": "33338",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Dire Lafto",
+      "lat": "8.355729103",
+      "lng": "37.75242233",
+      "street": ""
+    },
+    {
+      "id": "33339",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Fenta",
+      "lat": "8.267858505",
+      "lng": "37.70046234",
+      "street": ""
+    },
+    {
+      "id": "33340",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Fite Jaju",
+      "lat": "8.313073158",
+      "lng": "37.59628677",
+      "street": ""
+    },
+    {
+      "id": "33341",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Gibe Yibar",
+      "lat": "8.256281853",
+      "lng": "37.58405304",
+      "street": ""
+    },
+    {
+      "id": "33342",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad 5&6",
+      "lat": "8.396736145",
+      "lng": "37.56252289",
+      "street": ""
+    },
+    {
+      "id": "33343",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad 7",
+      "lat": "8.431810379",
+      "lng": "37.56149292",
+      "street": ""
+    },
+    {
+      "id": "33344",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad1",
+      "lat": "8.361147881",
+      "lng": "37.62918091",
+      "street": ""
+    },
+    {
+      "id": "33345",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Hudad4",
+      "lat": "8.367389679",
+      "lng": "37.51649094",
+      "street": ""
+    },
+    {
+      "id": "33346",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Jajabana Gasore",
+      "lat": "8.259746552",
+      "lng": "37.72747421",
+      "street": ""
+    },
+    {
+      "id": "33347",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Kulit2",
+      "lat": "8.368419647",
+      "lng": "37.54932022",
+      "street": ""
+    },
+    {
+      "id": "33348",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Lachena Omancho",
+      "lat": "8.306361198",
+      "lng": "37.70726013",
+      "street": ""
+    },
+    {
+      "id": "33349",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Lay Garaba",
+      "lat": "8.270982742",
+      "lng": "37.80958557",
+      "street": ""
+    },
+    {
+      "id": "33350",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Mamade",
+      "lat": "8.269824982",
+      "lng": "37.83647156",
+      "street": ""
+    },
+    {
+      "id": "33351",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Michilena Tarako",
+      "lat": "8.330512047",
+      "lng": "37.74515533",
+      "street": ""
+    },
+    {
+      "id": "33352",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Nacha Kulit",
+      "lat": "8.349498749",
+      "lng": "37.56609344",
+      "street": ""
+    },
+    {
+      "id": "33353",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Tach Garaba",
+      "lat": "8.259361267",
+      "lng": "37.78555298",
+      "street": ""
+    },
+    {
+      "id": "33354",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Tatesa",
+      "lat": "8.295090675",
+      "lng": "37.83324051",
+      "street": ""
+    },
+    {
+      "id": "33355",
+      "zone": "Gurage",
+      "city": "Abashige",
+      "title": "Tawulana Gafersa",
+      "lat": "8.281823158",
+      "lng": "37.67986679",
+      "street": ""
+    },
+    {
+      "id": "24113",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Biyu Geter",
+      "lat": "6.184811115",
+      "lng": "38.07503128",
+      "street": ""
+    },
+    {
+      "id": "24114",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Bochesa",
+      "lat": "6.203661442",
+      "lng": "38.12511826",
+      "street": ""
+    },
+    {
+      "id": "24115",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Boye Chare",
+      "lat": "6.246976852",
+      "lng": "38.16064835",
+      "street": ""
+    },
+    {
+      "id": "24116",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Bukisa Geter",
+      "lat": "6.213615417",
+      "lng": "38.15086746",
+      "street": ""
+    },
+    {
+      "id": "24117",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Bunata",
+      "lat": "6.36874342",
+      "lng": "38.24762726",
+      "street": ""
+    },
+    {
+      "id": "24118",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Debaka Dobobesa",
+      "lat": "6.333464146",
+      "lng": "38.19844437",
+      "street": ""
+    },
+    {
+      "id": "24119",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Dibicha",
+      "lat": "6.427335739",
+      "lng": "38.07876587",
+      "street": ""
+    },
+    {
+      "id": "24120",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Doko Chare",
+      "lat": "6.215174198",
+      "lng": "38.17772675",
+      "street": ""
+    },
+    {
+      "id": "24121",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Foge",
+      "lat": "6.163407803",
+      "lng": "38.14129257",
+      "street": ""
+    },
+    {
+      "id": "24122",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Gelo",
+      "lat": "6.221992016",
+      "lng": "38.01843643",
+      "street": ""
+    },
+    {
+      "id": "24123",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Gololcha",
+      "lat": "6.397041321",
+      "lng": "38.16937256",
+      "street": ""
+    },
+    {
+      "id": "24124",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Guangua Geter",
+      "lat": "6.34971714",
+      "lng": "38.28702545",
+      "street": ""
+    },
+    {
+      "id": "24125",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Hafursa Bangasa",
+      "lat": "6.188500881",
+      "lng": "38.17606735",
+      "street": ""
+    },
+    {
+      "id": "24126",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Hafursa Waro",
+      "lat": "6.158452988",
+      "lng": "38.16548157",
+      "street": ""
+    },
+    {
+      "id": "24127",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Hase Gola",
+      "lat": "6.360911846",
+      "lng": "38.21495819",
+      "street": ""
+    },
+    {
+      "id": "24128",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Kalaltu",
+      "lat": "6.333154678",
+      "lng": "38.24431229",
+      "street": ""
+    },
+    {
+      "id": "24129",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Kosoricha",
+      "lat": "6.162970543",
+      "lng": "37.9914093",
+      "street": ""
+    },
+    {
+      "id": "24130",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Lado",
+      "lat": "6.206139565",
+      "lng": "37.92114639",
+      "street": ""
+    },
+    {
+      "id": "24131",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Michicha",
+      "lat": "6.309812546",
+      "lng": "38.00429153",
+      "street": ""
+    },
+    {
+      "id": "24132",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Odo Mike",
+      "lat": "6.393155098",
+      "lng": "38.27929688",
+      "street": ""
+    },
+    {
+      "id": "24133",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Samaro",
+      "lat": "6.420719624",
+      "lng": "38.2391243",
+      "street": ""
+    },
+    {
+      "id": "24134",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Shaara",
+      "lat": "6.18495512",
+      "lng": "38.15172195",
+      "street": ""
+    },
+    {
+      "id": "24135",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Wodiye Kajima",
+      "lat": "6.30607605",
+      "lng": "38.12744141",
+      "street": ""
+    },
+    {
+      "id": "24136",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Wotamba",
+      "lat": "6.205213547",
+      "lng": "38.09734344",
+      "street": ""
+    },
+    {
+      "id": "24137",
+      "zone": "Mirab Guji",
+      "city": "Abaya",
+      "title": "Xokicha",
+      "lat": "6.261406422",
+      "lng": "38.10243607",
+      "street": ""
+    },
+    {
+      "id": "36469",
+      "zone": "Welayta",
+      "city": "Abaya Town",
+      "title": "Abaya 01",
+      "lat": "6.630994797",
+      "lng": "37.94299316",
+      "street": ""
+    },
+    {
+      "id": "22085",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Achane",
+      "lat": "9.65451622",
+      "lng": "37.33478546",
+      "street": ""
+    },
+    {
+      "id": "22086",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Alaku",
+      "lat": "9.685296059",
+      "lng": "37.30406189",
+      "street": ""
+    },
+    {
+      "id": "22087",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Boti",
+      "lat": "9.710848808",
+      "lng": "37.30789948",
+      "street": ""
+    },
+    {
+      "id": "22088",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Canani",
+      "lat": "9.746142387",
+      "lng": "37.31151962",
+      "street": ""
+    },
+    {
+      "id": "22089",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Dembal Gobaya",
+      "lat": "9.648147583",
+      "lng": "37.2744751",
+      "street": ""
+    },
+    {
+      "id": "22090",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Diga Arbasi",
+      "lat": "9.600310326",
+      "lng": "37.23366928",
+      "street": ""
+    },
+    {
+      "id": "22091",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Dino Berama",
+      "lat": "9.618497849",
+      "lng": "37.38650131",
+      "street": ""
+    },
+    {
+      "id": "22092",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Ganji Haro",
+      "lat": "9.615115166",
+      "lng": "37.35705566",
+      "street": ""
+    },
+    {
+      "id": "22093",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Ganji Kare",
+      "lat": "9.65148735",
+      "lng": "37.38134003",
+      "street": ""
+    },
+    {
+      "id": "22094",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Ganji Ketala",
+      "lat": "9.607723236",
+      "lng": "37.29294205",
+      "street": ""
+    },
+    {
+      "id": "22095",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Gudane",
+      "lat": "9.674735069",
+      "lng": "37.24743652",
+      "street": ""
+    },
+    {
+      "id": "22096",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Gutane Migiru",
+      "lat": "9.657440186",
+      "lng": "37.30512619",
+      "street": ""
+    },
+    {
+      "id": "22097",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Homa Kulula",
+      "lat": "9.750013351",
+      "lng": "37.27454758",
+      "street": ""
+    },
+    {
+      "id": "22098",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Homi",
+      "lat": "9.61561203",
+      "lng": "37.25893402",
+      "street": ""
+    },
+    {
+      "id": "22099",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Jare",
+      "lat": "9.596246719",
+      "lng": "37.33114624",
+      "street": ""
+    },
+    {
+      "id": "22100",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Kolobo",
+      "lat": "9.582176208",
+      "lng": "37.37944412",
+      "street": ""
+    },
+    {
+      "id": "22101",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Sandabo Dongoro",
+      "lat": "9.701173782",
+      "lng": "37.24502182",
+      "street": ""
+    },
+    {
+      "id": "22102",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Sulula Finca",
+      "lat": "9.811937332",
+      "lng": "37.37640762",
+      "street": ""
+    },
+    {
+      "id": "28717",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Fincha_01",
+      "lat": "9.564224243",
+      "lng": "37.36610413",
+      "street": ""
+    },
+    {
+      "id": "28718",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Fincha_02",
+      "lat": "9.575576782",
+      "lng": "37.36372375",
+      "street": ""
+    },
+    {
+      "id": "28719",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Homi_01",
+      "lat": "9.624094963",
+      "lng": "37.24304581",
+      "street": ""
+    },
+    {
+      "id": "28720",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abaychoman",
+      "title": "Migiru_01",
+      "lat": "9.671367645",
+      "lng": "37.32257462",
+      "street": ""
+    },
+    {
+      "id": "41617",
+      "zone": "Mehakelawi",
+      "city": "Abbi Addy",
+      "title": "1",
+      "lat": "13.61814499",
+      "lng": "39.00365448",
+      "street": ""
+    },
+    {
+      "id": "41618",
+      "zone": "Mehakelawi",
+      "city": "Abbi Addy",
+      "title": "2",
+      "lat": "13.62715816",
+      "lng": "38.99779892",
+      "street": ""
+    },
+    {
+      "id": "41619",
+      "zone": "Mehakelawi",
+      "city": "Abbi Addy",
+      "title": "3",
+      "lat": "13.64272308",
+      "lng": "38.9876709",
+      "street": ""
+    },
+    {
+      "id": "41620",
+      "zone": "Mehakelawi",
+      "city": "Abbi Addy",
+      "title": "4",
+      "lat": "13.64060879",
+      "lng": "38.97013092",
+      "street": ""
+    },
+    {
+      "id": "30164",
+      "zone": "Buno Bedele",
+      "city": "Abdela",
+      "title": "Abdela",
+      "lat": "8.364789963",
+      "lng": "36.23967361",
+      "street": ""
+    },
+    {
+      "id": "9370",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Adkelu",
+      "lat": "13.59365368",
+      "lng": "39.90012741",
+      "street": ""
+    },
+    {
+      "id": "9371",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Asengola",
+      "lat": "13.37728024",
+      "lng": "39.85113144",
+      "street": ""
+    },
+    {
+      "id": "9372",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Galeyso",
+      "lat": "13.22303772",
+      "lng": "39.81941605",
+      "street": ""
+    },
+    {
+      "id": "9373",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Gube",
+      "lat": "13.46488285",
+      "lng": "39.85188675",
+      "street": ""
+    },
+    {
+      "id": "9374",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Harameli",
+      "lat": "13.30152512",
+      "lng": "39.7500267",
+      "street": ""
+    },
+    {
+      "id": "9375",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Hariden",
+      "lat": "13.1449976",
+      "lng": "39.92892075",
+      "street": ""
+    },
+    {
+      "id": "9376",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Hidmo",
+      "lat": "13.37899399",
+      "lng": "39.78243256",
+      "street": ""
+    },
+    {
+      "id": "9377",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Mireyle",
+      "lat": "13.29789829",
+      "lng": "39.91686249",
+      "street": ""
+    },
+    {
+      "id": "9378",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Murga",
+      "lat": "13.42106533",
+      "lng": "39.76007843",
+      "street": ""
+    },
+    {
+      "id": "9379",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Urkudi",
+      "lat": "13.36623287",
+      "lng": "39.81393814",
+      "street": ""
+    },
+    {
+      "id": "9380",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Wesema",
+      "lat": "13.5433979",
+      "lng": "39.8506012",
+      "street": ""
+    },
+    {
+      "id": "9747",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Wakergubi",
+      "lat": "13.33645248",
+      "lng": "39.7696991",
+      "street": ""
+    },
+    {
+      "id": "9748",
+      "zone": "Zone_2 (Kelbetiresu)",
+      "city": "Abeala",
+      "title": "Wehedet",
+      "lat": "13.35575294",
+      "lng": "39.77962112",
+      "street": ""
+    },
+    {
+      "id": "7914",
+      "zone": "",
+      "city": "Abeba",
+      "title": "Germany embassy",
+      "lat": "9.0381215",
+      "lng": "38.7800623",
+      "street": "Yeka Kifle Ketema, 03 Khebena), Woreda"
+    },
+    {
+      "id": "22103",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Botorobora",
+      "lat": "9.758429527",
+      "lng": "36.93876648",
+      "street": ""
+    },
+    {
+      "id": "22104",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Cheru",
+      "lat": "9.70794487",
+      "lng": "36.83065033",
+      "street": ""
+    },
+    {
+      "id": "22105",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Dalacho",
+      "lat": "9.556995392",
+      "lng": "36.77149963",
+      "street": ""
+    },
+    {
+      "id": "22106",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Debisi",
+      "lat": "9.697413445",
+      "lng": "36.96563339",
+      "street": ""
+    },
+    {
+      "id": "22107",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Garero",
+      "lat": "9.648410797",
+      "lng": "36.83128738",
+      "street": ""
+    },
+    {
+      "id": "22108",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Gorte",
+      "lat": "9.563028336",
+      "lng": "36.871418",
+      "street": ""
+    },
+    {
+      "id": "22109",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Gulante",
+      "lat": "9.650084496",
+      "lng": "36.96848679",
+      "street": ""
+    },
+    {
+      "id": "22110",
+      "zone": "Horo Guduru Wollega",
+      "city": "Abedongoro",
+      "title": "Homagalesa",
+      "lat": "9.677414894",
+      "lng": "36.78020859",
+      "street": ""
+    }
+  ]
+}
