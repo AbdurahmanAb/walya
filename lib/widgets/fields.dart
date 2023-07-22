@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'package:animated_custom_dropdown/custom_dropdown.dart';
+import 'package:waliya/provider/date_provider.dart';
 import 'package:waliya/widgets/search_locations.dart';
 import '../countries.dart';
 import '../provider/country_provider.dart';
@@ -19,24 +20,13 @@ class _FieldsState extends State<Fields> {
   final dropDownController = TextEditingController();
 
   var _selectedCountry;
-  DateTime selectedDate = DateTime.now();
-  Future<void> _selectDate(BuildContext context) async {
-    final DateTime? picked = await showDatePicker(
-        context: context,
-        initialDate: selectedDate,
-        firstDate: DateTime(2015, 8),
-        lastDate: DateTime(2101));
-    if (picked != null && picked != selectedDate)
-      setState(() {
-        selectedDate = picked;
-      });
-  }
 
 // Call _selectDate() method on button click or any other event
 
   @override
   Widget build(BuildContext context) {
     final pickUpDropList = Provider.of<CountryProvder>(context);
+    final dateProvider = Provider.of<DateProvider>(context);
     final PickuptextController = TextEditingController(
       text: dropDownController.value.text == "Ethiopia    🇪🇹"
           ? pickUpDropList.items.isNotEmpty
@@ -102,6 +92,23 @@ class _FieldsState extends State<Fields> {
       }
     }
 
+    DateTime selectedDate = DateTime.now();
+    Future<void> _selectDate(BuildContext context) async {
+      final DateTime? picked = await showDatePicker(
+          context: context,
+          initialDate: selectedDate,
+          firstDate: DateTime(2015, 8),
+          lastDate: DateTime(2101));
+      if (picked != null && picked != selectedDate)
+        widget.title.toLowerCase() == "pickUp".toLowerCase()
+            ? dateProvider.addPDate(picked)
+            : dateProvider.addDdate(picked);
+
+      setState(() {
+        selectedDate = picked!;
+      });
+    }
+
     return Container(
       child: Column(
         children: [
@@ -155,7 +162,21 @@ class _FieldsState extends State<Fields> {
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
                         Text(
-                            "${selectedDate.month}/ ${selectedDate.day}/ ${selectedDate.year}"),
+                            widget.title.toLowerCase() == "PickUp".toLowerCase()
+                                ? dateProvider.pdate == null
+                                    ? "Pick Date"
+                                    : dateProvider.pdate!.day.toString() +
+                                        "/" +
+                                        dateProvider.pdate!.month.toString() +
+                                        "/" +
+                                        dateProvider.pdate!.year.toString()
+                                : dateProvider.ddate == null
+                                    ? "Drop Date"
+                                    : dateProvider.ddate!.day.toString() +
+                                        "/" +
+                                        dateProvider.ddate!.month.toString() +
+                                        "/" +
+                                        dateProvider.ddate!.year.toString()),
                         const Icon(Icons.calendar_month)
                       ],
                     ),

@@ -2,11 +2,19 @@ import 'package:flutter/material.dart';
 import 'package:waliya/pick_up.dart';
 import 'package:provider/provider.dart';
 import 'package:waliya/provider/country_provider.dart';
+import 'package:waliya/provider/date_provider.dart';
 
 void main() {
   runApp(
-    ChangeNotifierProvider(
-      create: (context) => CountryProvder(),
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(
+          create: (context) => CountryProvder(),
+        ),
+        ChangeNotifierProvider(
+          create: (context) => DateProvider(),
+        ),
+      ],
       child: const MyApp(),
     ),
   );
